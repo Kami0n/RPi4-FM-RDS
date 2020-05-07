@@ -1,6 +1,6 @@
 # RPi4-FM-RDS
 
-FM (mono) receiver with RDS optimized for Raspberry Pi 4, made with GnuRadio 3.7.
+FM (mono) receiver analyzer with RDS optimized for Raspberry Pi 4, made with GnuRadio 3.7.
 
 ## Installation of all dependencies:
 ``` sudo apt install gnuradio gr-osmosdr gr-rds ```
