@@ -1,6 +1,6 @@
 # RPi4-FM-RDS
 
-GnuRadio 3.7 FM receiver with RDS for Raspberry Pi.
+FM receiver with RDS for Raspberry Pi, made with GnuRadio 3.7.
 
 ## Installation of all dependencies:
 '''sudo apt install gnuradio gr-osmosdr gr-rds'''
